@@ -1,16 +1,9 @@
 # tasks
 
-A new Flutter project.
+Task Manager App,
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- I didn't make it all, becuase the api doesn't allow to edit or modify or add data.
+- I made it clean archticture
+- Handle some cases
+- all usecases u asked for is there
+- I'm not so good with unit test for now
